@@ -1,7 +1,7 @@
 # Business Case
 
 
-## Project Title: 
+## Project Title: The Artisan Vault
 Digital Marketplace for Local Artisans
 
 ### Summary:
