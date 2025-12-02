@@ -9,7 +9,9 @@ This document identifies the constraints, assumptions, and dependencies that aff
 *Constraints are fixed limitations that the project must operate within.*
 
 ### 1. Timeline Constraints
-- Semester Deadline: The project must be completed within the academic semester, limiting the available development and testing window.
+
+- Content Acquisition Window: The project timeline is constrained by the artisan’s limited availability to provide item photos and descriptions. The system cannot progress to the MVP without this content, which may only be supplied during specific time windows based on the artisan’s schedule.
+
 
 ### 2. Budget & Resource Constraints
 
