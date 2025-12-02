@@ -8,41 +8,44 @@ This document identifies the constraints, assumptions, and dependencies that aff
 
 *Constraints are fixed limitations that the project must operate within.*
 
+### 1. Timeline Constraints
+- Semester Deadline: The project must be completed within the academic semester, limiting the available development and testing window.
+
 ### 2. Budget & Resource Constraints
 
-- **Low-Cost Tools Required:** Development and hosting must rely on free or low-cost platforms due to the absence of a formal project budget.
+- Low-Cost Tools Required: Development and hosting must rely on free or low-cost platforms due to the absence of a formal project budget.
 
-- **Single Developer Limitation:** All analysis, development, testing, and support depend on one developer, limiting available capacity.
+- Single Developer Limitation: All analysis, development, testing, and support depend on one developer, limiting available capacity.
 
 ### 3. Technical Constraints
 
-- **Hosting Capacity:** Free hosting tiers restrict bandwidth, storage, compute resources, and database size.
+- Hosting Capacity: Free hosting tiers restrict bandwidth, storage, compute resources, and database size.
 
-- **No Advanced Automation:** Phase 1 *cannot* include complex automation, payment workflows, or integrated financial systems.
+- No Advanced Automation: Phase 1 *cannot* include complex automation, payment workflows, or integrated financial systems.
 
-- **Device Limitations:** Artisans may use older smartphones with limited storage and processing power, restricting UI complexity.
+- Device Limitations: Artisans may use older smartphones with limited storage and processing power, restricting UI complexity.
 
-- **Internet Stability:** Some areas in Cancún have inconsistent internet speeds, affecting photo uploads and system responsiveness.
+- Internet Stability: Some areas in Cancún have inconsistent internet speeds, affecting photo uploads and system responsiveness.
 
 ### 4. User Skill & Adoption Constraints
 
-- **Low Digital Literacy Among Artisans:** Many artisans have limited experience with web platforms, requiring a simple, intuitive design.
+- Low Digital Literacy Among Artisans: Many artisans have limited experience with web platforms, requiring a simple, intuitive design.
 
-- **Cultural Preference for Personal Interaction:** Local selling culture often relies on face-to-face trust, which may slow digital adoption.
+- Cultural Preference for Personal Interaction: Local selling culture often relies on face-to-face trust, which may slow digital adoption.
 
-- **Buyer Familiarity With WhatsApp/Facebook:** Customers in Cancún typically use informal channels instead of websites, reducing initial usage.
+- Buyer Familiarity With WhatsApp/Facebook: Customers in Cancún typically use informal channels instead of websites, reducing initial usage.
 
 ### 5. Scope Constraints
 
-- **Manual Sales Confirmation:** Sales will be confirmed manually by the artisan due to lack of payment and automation features.
+- Manual Sales Confirmation: Sales will be confirmed manually by the artisan due to lack of payment and automation features.
 
 ### 6. Cultural & Regional Constraints
 
-- **Trust-Based Selling Norms:** Local buyers may prefer verifying items in person rather than trusting online descriptions.
+- Trust-Based Selling Norms: Local buyers may prefer verifying items in person rather than trusting online descriptions.
 
-- **Language Requirements:** The system must operate primarily in Spanish; English support may be needed later.
+- Language Requirements: The system must operate primarily in Spanish; English support may be needed later.
 
-- **Regional Economic Patterns:** Local purchasing patterns may affect initial demand and usage behavior.
+- Regional Economic Patterns: Local purchasing patterns may affect initial demand and usage behavior.
 
 ### 7. Legal & Compliance Constraints
 
