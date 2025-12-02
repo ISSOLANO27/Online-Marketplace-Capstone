@@ -1,6 +1,9 @@
 # Stakeholder Register
 
-## Purpose
+## Purpose: 
+
+This document identifies all individuals and groups affected by The Artisan Vault system. It outlines their roles, interests, influence, and expectations. We covered that early identifying stakeholders early ensures accurate requirements and smooth communication throughout the SDLC.
+
 
 ## Stakeholder List:
 
