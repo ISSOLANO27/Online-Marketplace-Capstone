@@ -1,4 +1,4 @@
-# Constraints, Asssumptions, and Dependencies (CAD)
+# Constraints, Assumptions, and Dependencies (CAD)
 
 ## Purpose
 
