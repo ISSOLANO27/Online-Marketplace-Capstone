@@ -1,6 +1,6 @@
 # Online Marketplace System – SDLC Capstone Project
 
-Welcome! This repository contains my full Systems Analysis & Design capstone project: an Online Marketplace System designed using the complete Systems Development Life Cycle (SDLC). 
+Welcome Everyone! This repository contains my full Systems Analysis & Design capstone project: an Online Marketplace System designed using the complete Systems Development Life Cycle (SDLC). 
 
 The goal of this project is to design a functional online shopping platform for a single retailer, including features for browsing products, managing customer accounts, handling orders, and maintaining inventory. Every artifact in this repo was created step-by-step using SDLC best practices.
 
