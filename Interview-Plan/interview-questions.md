@@ -28,5 +28,54 @@
 ## 🔶 Constraint & Risk Questions
 1. How comfortable are you with using a simple digital system?  
 2. What concerns would you have about storing your data online?  
-3. What features would make you trust the system?  
+3. What features would make you trust the system?
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# ❓ Analysis Phase Interview Questions
+
+## 🔶 Workflow Questions
+1. Walk me step-by-step through how you take a new order.  
+2. What information do you need at each step?  
+3. How do you verify measurements or materials?  
+4. How do you keep track of project status?  
+
+---
+
+## 🔷 Data Questions
+1. What customer information must be stored?  
+2. What order details must be captured?  
+3. What materials do you track? (types, quantities, cost)  
+4. What documents or photos do you use during projects?
+
+---
+
+## 🔶 Volume Questions
+1. How many orders per month?  
+2. How many material types?  
+3. Typical order size (small, medium, large)?  
+
+---
+
+## 🔶 Exception Handling Questions
+1. What happens when materials run out?  
+2. What if the customer changes the order?  
+3. What if measurements are wrong?  
+4. How do you handle cancellations or delays?
+
+---
+
+## 🔶 System Expectations (Non-Functional)
+1. How fast should the system respond?  
+2. What interface style is easiest for you?  
+3. Do you need mobile access?  
+4. What would make the system “trustworthy” to you?
+
+
+
+
 
