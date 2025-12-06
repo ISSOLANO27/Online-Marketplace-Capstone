@@ -1,19 +1,28 @@
 # Planning Phase Interview Questions
 
 ## Open-Ended Questions
-1. Walk me through your typical workday when handling customer orders.  
-2. What part of your process takes the most time or feels inefficient?  
-3. What problems occur most often in your workflow?  
-4. How do you currently track customer communications and materials?  
-5. How do you store measurements and order details?
+1. Walk me through your typical workday when handling customer orders.
+> ...
+3. What part of your process takes the most time or feels inefficient?
+> ...  
+4. What problems occur most often in your workflow?
+> ...  
+5. How do you currently track customer communications and materials?
+> ...
+6. How do you store measurements and order details?
+> ...
 
 ---
 
 ## Closed-Ended Questions
-1. Do you track inventory in any system? (Yes/No)  
-2. Do customers frequently ask for order updates? (Yes/No)  
-3. Do you ever lose or misplace important notes? (Yes/No)  
-4. Do you reuse existing designs? (Yes/No)
+1. Do you track inventory in any system? (Yes/No)
+> ...
+3. Do customers frequently ask for order updates? (Yes/No)
+> ...
+4. Do you ever lose or misplace important notes? (Yes/No)
+> ...
+5. Do you reuse existing designs? (Yes/No)
+> ...
 
 ---
 
@@ -26,9 +35,12 @@
 ---
 
 ## 🔶 Constraint & Risk Questions
-1. How comfortable are you with using a simple digital system?  
-2. What concerns would you have about storing your data online?  
-3. What features would make you trust the system?
+1. How comfortable are you with using a simple digital system?
+> ...
+3. What concerns would you have about storing your data online?
+> ... 
+4. What features would make you trust the system?
+> ...
 
 <br>
 <br>
@@ -39,41 +51,60 @@
 # ❓ Analysis Phase Interview Questions
 
 ## 🔶 Workflow Questions
-1. Walk me step-by-step through how you take a new order.  
-2. What information do you need at each step?  
-3. How do you verify measurements or materials?  
-4. How do you keep track of project status?  
+1. Walk me step-by-step through how you take a new order.
+> ...
+3. What information do you need at each step?
+> ...
+4. How do you verify measurements or materials?
+> ...
+5. How do you keep track of project status?
+> ...
 
 ---
 
 ## 🔷 Data Questions
-1. What customer information must be stored?  
-2. What order details must be captured?  
-3. What materials do you track? (types, quantities, cost)  
-4. What documents or photos do you use during projects?
+1. What customer information must be stored?
+> ...
+3. What order details must be captured?
+> ...
+4. What materials do you track? (types, quantities, cost)
+> ...
+5. What documents or photos do you use during projects?
+> ...
 
 ---
 
 ## 🔶 Volume Questions
-1. How many orders per month?  
-2. How many material types?  
-3. Typical order size (small, medium, large)?  
+1. How many orders per month?
+> ...
+3. How many material types?
+> ...
+4. Typical order size (small, medium, large)?  
+> ...
 
 ---
 
 ## 🔶 Exception Handling Questions
-1. What happens when materials run out?  
-2. What if the customer changes the order?  
-3. What if measurements are wrong?  
-4. How do you handle cancellations or delays?
+1. What happens when materials run out?
+> ...
+3. What if the customer changes the order?
+> ...
+4. What if measurements are wrong?
+> ...
+5. How do you handle cancellations or delays?
+> ...
 
 ---
 
 ## 🔶 System Expectations (Non-Functional)
-1. How fast should the system respond?  
-2. What interface style is easiest for you?  
-3. Do you need mobile access?  
-4. What would make the system “trustworthy” to you?
+1. How fast should the system respond?
+> ...
+3. What interface style is easiest for you?
+> ...
+4. Do you need mobile access?
+> ...
+5. What would make the system “trustworthy” to you?
+> ...
 
 
 
