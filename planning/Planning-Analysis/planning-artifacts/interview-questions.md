@@ -1,4 +1,5 @@
 # Planning Phase Interview Questions
+[Analysis questions](#-analysis-phase-interview-questions)
 
 ## Open-Ended Questions
 1. Walk me through your typical workday when handling customer orders.
@@ -47,6 +48,9 @@
 <br>
 <br>
 <br>
+
+
+
 
 # ❓ Analysis Phase Interview Questions
 
