@@ -6,7 +6,6 @@
 **Student:** Israel
 **Course:** Systems Analysis & Design
 
----
 
 # **1. Stakeholder Persona**
 
